@@ -77,49 +77,51 @@
 ### 🌍 Лента и Мульти-арендность (Переключение каналов)
 Пользователь может мгновенно переключаться между разными сообществами (городами/университетами) без перезагрузки приложения. В ленте доступны комментарии, реакции и просмотр медиа-альбомов.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c425cac-9ba7-41b4-9fa3-28bfa8ad5d5c" width="230" />
-  <img src="https://github.com/user-attachments/assets/ba40012e-240a-4520-84fb-a44b2e7b1c14" width="230" />
-  <img src="https://github.com/user-attachments/assets/89c6dd36-2817-4048-adcf-6602cee6a0f3" width="230" />
+  <img src="https://github.com/user-attachments/assets/5cf13d10-9541-4e9e-9660-d284c46878a9" width="230" />
+  <img src="https://github.com/user-attachments/assets/b039b83a-b8d4-400d-adf7-6105647b150c" width="230" />
+  <img src="https://github.com/user-attachments/assets/197e86c8-7349-4625-8eb4-fc77d3594f71" width="230" />
 </p>
 ### 🗺️ Интерактивная Карта Событий
 Встроенная карта (Location-based сервис), где анонимы могут оставлять гео-метки о событиях в реальном времени.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dd908b65-40b9-4df8-9a53-e53d6fb2749e" width="230" />
+  <img src="https://github.com/user-attachments/assets/682cfe84-c6e4-49a3-9c1c-8d8dc4dc8028" width="230" />
 </p>
 ### 🛒 Магазин, Монетизация и Экономика
 Собственный маркетплейс внутри Telegram. Пользователи могут покупать уникальные стили, статусы (VIP, Legend) за внутреннюю валюту (Звезды) и расширять свои права на платформе.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/783fa059-e043-42e9-9bee-fe5314a2585d" width="230" />
-  <img src="https://github.com/user-attachments/assets/42cca01e-2764-437e-8f1e-4702b3e8698a" width="230" />
-  <img src="https://github.com/user-attachments/assets/b8873d82-e5e6-450f-97d7-732151a6faa2" width="230" />
-  <img src="https://github.com/user-attachments/assets/120d7d43-75c7-4622-93c0-1f5e68da75c3" width="230" />
+  <img src="https://github.com/user-attachments/assets/d736bf33-466d-4e55-bfa1-c5e22c64a6a1" width="230" />
+  <img src="https://github.com/user-attachments/assets/e055359c-96b1-4741-a415-36d4e54a5806" width="230" />
+  <img src="https://github.com/user-attachments/assets/ad45fac5-6110-4af1-8c72-003accf1f5e8" width="230" />
+  <img src="https://github.com/user-attachments/assets/5f9c5795-9aa8-4290-9d73-2e64031ac28d" width="230" />
   <img src="https://github.com/user-attachments/assets/3f50ed08-3488-453a-8875-565bb7cbfbac" width="230" />
 </p>
 ### 👤 Профиль, Настройки и Финансы
 Управление анонимным профилем, кастомизация интерфейса (Стили), система уведомлений и полноценный финансовый блок с историей заявок на вывод средств.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5f9c5795-9aa8-4290-9d73-2e64031ac28d" width="230" />
-  <img src="https://github.com/user-attachments/assets/d736bf33-466d-4e55-bfa1-c5e22c64a6a1" width="230" />
-  <img src="https://github.com/user-attachments/assets/ad45fac5-6110-4af1-8c72-003accf1f5e8" width="230" />
-  <img src="https://github.com/user-attachments/assets/e055359c-96b1-4741-a415-36d4e54a5806" width="230" />
-  <img src="https://github.com/user-attachments/assets/752ca1ba-c62e-4d07-af75-db5b3a938829" width="230" />
-  <img src="https://github.com/user-attachments/assets/bc79dfca-30f5-40f0-b448-6cc6dcb8144d" width="230" />
-  <img src="https://github.com/user-attachments/assets/1d1fdcfe-460b-492d-ad9b-eea29fc4b627" width="230" />
-</p>
-### 💬 Прямая Связь с Поддержкой
-Встроенная система тикетов и чатов. Слева — как это видит пользователь. По центру — как это видит администратор. Справа — взаимодействие с ботом-модератором.
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/682cfe84-c6e4-49a3-9c1c-8d8dc4dc8028" width="230" />
-  <img src="https://github.com/user-attachments/assets/7160f90e-d967-4f78-89eb-da06c03e469f" width="230" />
+  <img src="https://github.com/user-attachments/assets/120d7d43-75c7-4622-93c0-1f5e68da75c3" width="230" />
+  <img src="https://github.com/user-attachments/assets/783fa059-e043-42e9-9bee-fe5314a2585d" width="230" />
+  <img src="https://github.com/user-attachments/assets/b8873d82-e5e6-450f-97d7-732151a6faa2" width="230" />
+  <img src="https://github.com/user-attachments/assets/42cca01e-2764-437e-8f1e-4702b3e8698a" width="230" />
   <img src="https://github.com/user-attachments/assets/dd841686-9d85-4842-8d65-28758baa4860" width="230" />
+  <img src="https://github.com/user-attachments/assets/9fcb162d-e509-4b89-8787-a42362581052" width="230" />
+  <img src="https://github.com/user-attachments/assets/2cd07cbc-3dcc-4fd0-8a9b-3696411a0853" width="230" />
+</p>
+### 💬 Прямая Связь с Поддержкой и Ботом
+Встроенная система тикетов и чатов. Отправка постов на модерацию через бота и прямая линия с поддержкой платформы (как от лица пользователя, так и от лица администратора).
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/63485186-0e80-4fac-9967-4d76ad08a6fb" width="230" />
+  <img src="https://github.com/user-attachments/assets/bc79dfca-30f5-40f0-b448-6cc6dcb8144d" width="230" />
+  <img src="https://github.com/user-attachments/assets/dd908b65-40b9-4df8-9a53-e53d6fb2749e" width="230" />
+  <img src="https://github.com/user-attachments/assets/44577104-697d-4d46-9468-c486f86ea50e" width="230" />
 </p>
 ### 👑 Скрытая Панель Администратора (CRM & Moderation)
 Полный контроль над платформой: глобальная статистика, управление базой данных пользователей, детальная информация по каждому анониму (муты/баны) и система премодерации входящего контента.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5cf13d10-9541-4e9e-9660-d284c46878a9" width="230" />
-  <img src="https://github.com/user-attachments/assets/b039b83a-b8d4-400d-adf7-6105647b150c" width="230" />
-  <img src="https://github.com/user-attachments/assets/44577104-697d-4d46-9468-c486f86ea50e" width="230" />
-  <img src="https://github.com/user-attachments/assets/197e86c8-7349-4625-8eb4-fc77d3594f71" width="230" />
-  <img src="https://github.com/user-attachments/assets/63485186-0e80-4fac-9967-4d76ad08a6fb" width="230" />
+  <img src="https://github.com/user-attachments/assets/1d1fdcfe-460b-492d-ad9b-eea29fc4b627" width="230" />
+  <img src="https://github.com/user-attachments/assets/ba40012e-240a-4520-84fb-a44b2e7b1c14" width="230" />
+  <img src="https://github.com/user-attachments/assets/7160f90e-d967-4f78-89eb-da06c03e469f" width="230" />
+  <img src="https://github.com/user-attachments/assets/89c6dd36-2817-4048-adcf-6602cee6a0f3" width="230" />
   <img src="https://github.com/user-attachments/assets/d6a37c66-9e90-4b5f-9eb9-b08fea384886" width="230" />
+  <img src="https://github.com/user-attachments/assets/b72f0ba8-579b-4997-9f35-4f4963a4bd36" width="230" />
+  <img src="https://github.com/user-attachments/assets/9c425cac-9ba7-41b4-9fa3-28bfa8ad5d5c" width="230" />
 </p>
